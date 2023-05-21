@@ -1,5 +1,5 @@
-env:
-  RUNNER_DEBUG: 1
+#env:
+#  RUNNER_DEBUG: 1
 
 name: "build-test"
 on: # rebuild any PRs and main branch changes

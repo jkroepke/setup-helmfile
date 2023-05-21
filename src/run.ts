@@ -106,7 +106,7 @@ function findBinary(rootFolder: string): string {
 }
 
 async function run() {
-    let version = core.getInput('version', { 'required': true });
+    let version = core.getInput('version', { 'required': true }).replace('v', '');
     if (version.toLocaleLowerCase() === 'latest') {
         version = await getStableVersion();
     } else if (!version.toLocaleLowerCase().startsWith('v')) {
