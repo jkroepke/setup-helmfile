@@ -1,5 +1,5 @@
 {
-  "name": "setup-helmfile",
+  "name": "@jkroepke/setup-helmfile",
   "version": "0.0.0",
   "private": true,
   "description": "Setup helmfile",
