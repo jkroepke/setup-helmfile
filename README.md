@@ -1,7 +1,7 @@
 ![build-test](https://github.com/jkroepke/setup-helmfile/workflows/build-test/badge.svg)
 
 ## Setup helmfile ##
-GitHub Action for installing [variantdev/helmfile](https://github.com/variantdev/helmfile)
+GitHub Action for installing [helmfile/helmfile](https://github.com/helmfile/helmfile)
 
 #### Repurposed from [mdgreenwald/mozilla-sops-action](https://github.com/mdgreenwald/mozilla-sops-action) ####
 
