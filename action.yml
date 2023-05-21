@@ -1,5 +1,5 @@
-name: 'helmfile binary installer'
-description: 'Install a specific version of the helmfile binary. Acceptable values are latest or any semantic version string like 0.14.0'
+name: 'helmfile tool installer'
+description: 'Install a specific version of the helmfile. Acceptable values are latest or any semantic version string like 0.14.0'
 inputs:
   version:
     description: 'Version of helmfile'
